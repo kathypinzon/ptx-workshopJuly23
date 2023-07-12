@@ -80,6 +80,28 @@
       <p>
         More words!
       </p>
+      <exercise>
+          <statement>
+            <p>
+              What is <m>1+1</m>?
+            </p>
+          </statement>
+          <hint>
+            <p>
+              Use arithmetic.
+            </p>
+          </hint>
+          <answer>
+            <p>
+              <m>2</m>
+            </p>
+          </answer>
+          <solution>
+            <p>
+              <m>+1</m> means take the successor ordinal. For <m>1=\{0\}</m>...
+            </p>
+          </solution>
+        </exercise>
     </section>
 
     </chapter>
