@@ -43,7 +43,16 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "1.2",
   "title": "Second Section",
-  "body": " Second Section  More words!  "
+  "body": " Second Section  More words!   What is ?   Use arithmetic.        means take the successor ordinal. For ...   "
+},
+{
+  "id": "exercise-1",
+  "level": "2",
+  "url": "sec-second-section.html#exercise-1",
+  "type": "Checkpoint",
+  "number": "1.2.1",
+  "title": "",
+  "body": " What is ?   Use arithmetic.        means take the successor ordinal. For ...  "
 },
 {
   "id": "colophon-2",
